@@ -5,7 +5,7 @@ export default function AboutMe() {
   return (
     <div className="about-me">
       <h1>Meet the Creator</h1> 
-      <div className='selfieContainer'><img className="selfie border" src={require("../../assets/selfie2.JPG")} alt="author"/>
+      <div className='selfieContainer'><img className="selfie border" src={require("../../assets/selfie1.JPG")} alt="author"/>
       </div>
       <p className='about-paragraph'>
         My name is Jimmy. I was born in New York, but have called Utah my home 
