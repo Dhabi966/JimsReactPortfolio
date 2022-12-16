@@ -66,6 +66,7 @@ body {
   .footer {
     color: white;
     background-image: url("./assets/header.jpg");
+    background-size: cover;
     padding-bottom: 8%;
     display: flex;
   }
@@ -79,6 +80,7 @@ body {
   
   .header {
     background-image: url("./assets/header.jpg");
+    background-size: cover;
     padding-bottom: 15%;
   
   }
