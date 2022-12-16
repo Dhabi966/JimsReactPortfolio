@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dhabi966/JimsReactPortfolio/static/css/main.2b7b86d7.css",
+    "main.js": "/Dhabi966/JimsReactPortfolio/static/js/main.d477a707.js",
+    "static/media/header.jpg": "/Dhabi966/JimsReactPortfolio/static/media/header.f3de4ece23a4cab2ee4b.jpg",
+    "static/media/employee-tracker.png": "/Dhabi966/JimsReactPortfolio/static/media/employee-tracker.677f3ce6d40fc733c815.png",
+    "static/media/social-network.png": "/Dhabi966/JimsReactPortfolio/static/media/social-network.500f128863792711b5e5.png",
+    "static/media/updated-resume.pdf": "/Dhabi966/JimsReactPortfolio/static/media/updated-resume.10fab750c02bc9815ae5.pdf",
+    "static/media/JATE.png": "/Dhabi966/JimsReactPortfolio/static/media/JATE.adbea6aa01b199a74f6f.png",
+    "static/media/selfie1.jpg": "/Dhabi966/JimsReactPortfolio/static/media/selfie1.03b8bf93c473c8d4bec8.jpg",
+    "static/media/notetaker.png": "/Dhabi966/JimsReactPortfolio/static/media/notetaker.b07a347c7803aec7b3cc.png",
+    "index.html": "/Dhabi966/JimsReactPortfolio/index.html",
+    "main.2b7b86d7.css.map": "/Dhabi966/JimsReactPortfolio/static/css/main.2b7b86d7.css.map",
+    "main.d477a707.js.map": "/Dhabi966/JimsReactPortfolio/static/js/main.d477a707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7b86d7.css",
+    "static/js/main.d477a707.js"
+  ]
+}
