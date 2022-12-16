@@ -16,7 +16,7 @@ A website to demonstrate my knowledge as a web developer and a sneak peek of wha
 
 ## Installation
 
-This application doesn't need to be installed. To see this portfolio, please visit the gitlink provided below.
+This application doesn't need to be installed. To see this portfolio, please visit the GitHub Pages link provided below.
 
 ## Usage
 
