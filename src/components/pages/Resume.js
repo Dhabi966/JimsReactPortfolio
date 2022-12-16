@@ -24,7 +24,7 @@ export default function Resume() {
         
         <div className="resume">
           <div className="small-resume">
-          <iframe width="560" height="315"
+          <iframe width="650" height="500"
             title="updated-resume"
             src={require("../../assets/updated-resume.pdf")}
           ></iframe>

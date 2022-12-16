@@ -4,7 +4,7 @@ import css from '../../index.css';
 export default function AboutMe() {
   return (
     <div className="about-me">
-      <h1>Meet the Creator</h1> 
+      <h1>Meet the Developer</h1> 
       <div className='selfieContainer'><img className="selfie border" src={require("../../assets/selfie1.jpg")} alt="author"/>
       </div>
       <p className='about-paragraph'>
