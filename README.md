@@ -31,7 +31,7 @@ https://github.com/Dhabi966
 ![Portfolio-Screenshot](https://user-images.githubusercontent.com/108851005/208034313-5a56a0be-70b8-4d02-a2e3-86b72ae8b122.png)
 
 ## Deployment
-
+GitHub Pages: 
 ## GitHub
 Repository: https://github.com/Dhabi966/JimsReactPortfolio
 
