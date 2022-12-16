@@ -67,24 +67,40 @@ body {
     color: white;
     background-image: url("./assets/header.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     padding-bottom: 8%;
     display: flex;
   }
   
-  .with-love {
+  .usa {
     margin-left: auto;
     margin-right: auto;
-    border: solid white 2px;
     margin-top: 1%;
   }
   
   .header {
     background-image: url("./assets/header.jpg");
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
     padding-bottom: 15%;
-  
+    display: flex;
+    
   }
-  
+  .text {
+    width: 800px;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 5.5rem;
+    text-align: center;
+    color: white; 
+  }
+  @media (max-width: 768px) {
+    .text {
+      font-size: 24px;
+    }
+  }
   .portfolio-container {
     margin-bottom: 10%;
   }
