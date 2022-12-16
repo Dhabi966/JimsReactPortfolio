@@ -65,7 +65,7 @@ body {
   
   .footer {
     color: white;
-    background-image: url("./assets/ocean2.jpg");
+    background-image: url("./assets/header.jpg");
     padding-bottom: 8%;
     display: flex;
   }
@@ -78,7 +78,7 @@ body {
   }
   
   .header {
-    background-image: url("./assets/ocean.jpg");
+    background-image: url("./assets/header.jpg");
     padding-bottom: 15%;
   
   }
